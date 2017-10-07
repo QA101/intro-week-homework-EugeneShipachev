@@ -14,7 +14,7 @@ public class MyStory {
  System.out.println("What's why I decided to take Java-Selenium classes this year. \r\n" + /*here I'm trying "\r\n +" */
    "I like the class coz. I can learn Git also and even more stuff. It's more than expected! \r\n" +
    "By the way, I've learned my first programming language in 1993 when I was 15 y/o. And it was Basic. \r\n" +
-   "I was able to create multicolored and differnt sizes moving objects;) ");
+   "I was able to create multicolored and different sizes moving objects;) ");
  System.out.println();/*The reader can get bored already, so better for me to stop here*/
  System.out.println();
  System.out.println("Thank you.");
