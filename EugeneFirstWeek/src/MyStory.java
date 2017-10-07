@@ -20,6 +20,7 @@ public class MyStory {
  System.out.println("Thank you.");
  System.out.println("Sincerely,");
  System.out.println("Yevgeniy Shipachev.");
+ System.out.println("10/06/2017");
 
   
   }
